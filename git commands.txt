@@ -16,3 +16,14 @@ working directory---> staging area-->  ( COMMIT to local) local --> remote repo 
 git add ( working to staging)
 git commit ( staging to local)
 git push ( local to remote) 
+
+
+
+example : git add "filename" will move the file from working directory to staging
+git commit -m "commiting changes to local"
+
+
+
+git checkout is used to jump between branches
+git checkout -b "branch1"
+git 
