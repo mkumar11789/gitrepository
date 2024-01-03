@@ -1,0 +1,18 @@
+git  is a version control system
+github is a remote reposotory service
+
+
+git init
+git status
+
+
+working directory---> staging area-->  ( COMMIT to local) local --> remote repo ( we PUSH to remote) 
+
+1. Moving files from working directory to Stagign can be SELECTIVE
+2. STAGING to LOCAL is always FULL / complete batch
+3. local to Remote is FUll/ Complete batch
+
+
+git add ( working to staging)
+git commit ( staging to local)
+git push ( local to remote) 
